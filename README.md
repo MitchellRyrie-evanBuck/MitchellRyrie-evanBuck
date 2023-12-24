@@ -143,8 +143,8 @@
 
 ### Knowing me
 <div align="center" >
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afl-lxw&layout=compact&theme=tokyonight" />
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=afl-lxw&show_icons=true&theme=transparent" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afl-lxw&layout=compact&theme=tokyonight" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=afl-lxw&show_icons=true&theme=transparent" />
 </div>
 
 
