@@ -147,8 +147,7 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=afl-lxw&show_icons=true&theme=transparent" />
 </div>
 
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=afl-lxw&the)
+[![afl-lxw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afl-lxw&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <div align="center"> <img style="background: transparent " src="https://raw.githubusercontent.com/afl-lxw/afl-lxw/output/github-contribution-grid-snake.svg" > </div> -->
 
