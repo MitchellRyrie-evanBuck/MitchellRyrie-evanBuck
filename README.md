@@ -29,7 +29,7 @@
 
 <!--<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=afl-lxw" /> </div>-->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=liuxiaowen&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=liuxiaowen&redirect=true)
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=liuxiaowen&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=liuxiaowen&redirect=true)-->
 
 <!-- You are my ![Visitor Count](https://profile-counter.glitch.me/afl-lxw/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:-->
 <!--
