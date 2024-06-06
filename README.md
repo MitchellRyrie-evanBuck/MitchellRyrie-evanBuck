@@ -1,7 +1,7 @@
 ### Hi there 👋 I am xiaowen:neckbeard:
 - 🌱 I’m currently learning Typescript Flutter Golang Threejs
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Typescript/Flutter.
+- 💬 Ask me about anything related to Typescript/Flutter
 - 📫 How to reach me: liuxiaowen66621@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
