@@ -5,7 +5,7 @@
 - 📫 How to reach me: liuxiaowen66621@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :fire:readme more note look :point_right:[blog](toplus.vip)
+- :fire:readme more note look :point_right:
 
 ![](./src/header_.png)
 
