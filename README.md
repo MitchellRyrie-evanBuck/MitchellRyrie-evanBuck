@@ -4,7 +4,7 @@
 - 💬 Ask me about anything related to Typescript/Flutter
 - 📫 How to reach me: liuxiaowen66621@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 - :fire:readme more note look :point_right:
 
 ![](./src/header_.png)
