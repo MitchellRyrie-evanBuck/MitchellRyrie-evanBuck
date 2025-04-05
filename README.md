@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ryrie:neckbeard:
+### Hi there 👋 I am Ryrie:neckbeard.:
 - 🌱 I’m currently learning Swift Web3 
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to node/Swift/
