@@ -9,12 +9,6 @@
 
 ![](./src/header_.png)
 
-### Like And Use
-  <div align="center">
-      <img src="https://skillicons.dev/icons?i=go,ts,js,python,nodejs,swift,flutter,dart,tailwind,react,vite,mysql,git,vue,linux,docker,figma,gitlab,nestjs,neovim, nuxtjs,webpack&perline=10" />
-  </div>
-
-
 
 <!--
 <div align="center" >
